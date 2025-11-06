@@ -5,7 +5,7 @@ public class PersonMain {
 	public static void main(String[] args) {
 	
 		Person p=new Person();
-		p.setName("SRIRAM");
+		p.setName("pavani");
 		p.setPid(99999);
 		p.setAge(21);
 		
@@ -17,3 +17,4 @@ public class PersonMain {
 	}
 
 }
+
